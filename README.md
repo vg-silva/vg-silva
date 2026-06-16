@@ -1,7 +1,4 @@
 <h2 align="left">Wҽʅƈσɱҽ! Mყ ɳαɱҽ ιʂ Vιɳιƈιυʂ αɳԃ I'ɱ α Sƚυԃҽɳƚ ϝɾσɱ Sҽɳαƈ</h2>
-
-###
-
 <div align="center">
 </div>
 
@@ -37,6 +34,7 @@
   </a>
   <a href="https://open.spotify.com/user/312onefeaujl3pvs4sdhr4pij3xu?si=bf6e955e471d46ef" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=7b7b7b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=26&pause=1000&color=B00000&background=00000024&center=true&width=435&lines=Take+Your+Heart" alt="Typing SVG" /></a>
   </a>
 </div>
 
