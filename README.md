@@ -24,7 +24,7 @@
 
 <div align="left">
   <a href="https://www.instagram.com/ryoonyy_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0d0d0d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/cutscenedante" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=D92323&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
