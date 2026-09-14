@@ -27,10 +27,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/cutscenedante" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=D92323&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=00A86B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="vg.silva.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=732424&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=39FF88&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://open.spotify.com/user/312onefeaujl3pvs4sdhr4pij3xu?si=bf6e955e471d46ef" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=7b7b7b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
