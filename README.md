@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://br.pinterest.com/dorothyomori/lain/"  />
+<img align="right" height="150" src="https://imgs.search.brave.com/yifJS9H_aGMfZatbQdoRYUTpv7z2nrFxESHAbSLIs2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q3LzY0/Lzg0L2Q3NjQ4NGY3/NTU3NjNiODdkNDVl/YzljNTZlMjFiMzdj/LmpwZw"  />
 
 ###
 
