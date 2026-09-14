@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/610/61072.gif"  />
+<img align="right" height="150" src="https://br.pinterest.com/dorothyomori/lain/"  />
 
 ###
 
